@@ -5,6 +5,10 @@ const bots = [
   { name: 'jyin', path: './jyin' },
   { name: 'mei',  path: './mei' },
   { name: 'carmen', path: './carmen' },
+  { name: 'jinyu', path: './jinyu' },
+  { name: 'mei', path: './mei' },
+  { name: 'yuyu', path: './yuyu' },
+  { name: 'yuna', path: './yuna' },
   { name: 'gina', path: './gina' }
 ];
 
