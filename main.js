@@ -1,14 +1,8 @@
 const { spawn } = require('child_process');
 
 const bots = [
-  { name: 'feyy', path: './feyy' },
   { name: 'jyin', path: './jyin' },
-  { name: 'mei',  path: './mei' },
-  { name: 'carmen', path: './carmen' },
   { name: 'jinyu', path: './jinyu' },
-  { name: 'evelyn', path: './evelyn' },
-  { name: 'yuyu', path: './yuyu' },
-  { name: 'yuna', path: './yuna' },
   { name: 'gina', path: './gina' }
 ];
 
