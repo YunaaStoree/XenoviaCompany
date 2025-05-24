@@ -6,7 +6,7 @@ const bots = [
   { name: 'mei',  path: './mei' },
   { name: 'carmen', path: './carmen' },
   { name: 'jinyu', path: './jinyu' },
-  { name: 'mei', path: './mei' },
+  { name: 'evelyn', path: './evelyn' },
   { name: 'yuyu', path: './yuyu' },
   { name: 'yuna', path: './yuna' },
   { name: 'gina', path: './gina' }
